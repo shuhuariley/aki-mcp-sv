@@ -1,6 +1,6 @@
 {
   "name": "aki-mcp-sv",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Custom MCP [Connector] for AI chat web [Claude|ChatGPT|Grok...] use Files/Shell on your computer directly",
   "main": "src/index.js",
   "scripts": {
